@@ -1,1 +1,1 @@
-A Default application base for API typescript using MongoBD
+A default application base for API typescript using MongoDB
