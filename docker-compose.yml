@@ -7,4 +7,4 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: test
       MONGO_INITDB_ROOT_PASSWORD: test
-    container_name: mongo-sales-microservice-test
+    container_name: mongo-test
